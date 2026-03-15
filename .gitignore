@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Reports (may contain sensitive scan data)
+scan_report.html
+scan_report.json
+*.report.*
