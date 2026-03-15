@@ -1,0 +1,2 @@
+# No third-party dependencies required — uses Python stdlib only
+# (socket, concurrent.futures, json, argparse, subprocess)
